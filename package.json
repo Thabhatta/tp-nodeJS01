@@ -1,0 +1,29 @@
+{
+  "name": "tp-nodejs01",
+  "version": "1.0.0",
+  "description": "Primeiro projto NODEJS da aula de TP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianocorrea3/tp-nodeJS01.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "tecnicas",
+    "de",
+    "programacao"
+  ],
+  "author": "Cristiano Correa de Moraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianocorrea3/tp-nodeJS01/issues"
+  },
+  "homepage": "https://github.com/cristianocorrea3/tp-nodeJS01#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
